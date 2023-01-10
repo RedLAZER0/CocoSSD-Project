@@ -1,0 +1,10 @@
+canvas{
+border-radius: 20px;
+border-color: black;    
+}
+
+button{
+    position: absolute;
+bottom: 20;   
+}
+
